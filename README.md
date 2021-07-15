@@ -6,6 +6,8 @@ description: ABOUT
 
 **WELCOME !**
 
+This repository has been archive. Please see [https://developers.cardano.org/docs/operate-a-stake-pool/](https://developers.cardano.org/docs/operate-a-stake-pool/) for updated content. 
+
 {% embed url="https://youtu.be/8TdVrVd92bs" caption="" %}
 
 Welcome to Cardano’s Stake Pool Course
