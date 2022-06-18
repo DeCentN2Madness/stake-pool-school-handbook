@@ -54,11 +54,11 @@ cardano-cli transaction calculate-min-fee \
 
 In this transaction we have to not only pay transaction fees, but also include a _deposit_ \(which we will get back when we deregister the key\) as stated in the protocol parameters:
 
-The deposit amount can be found in the `protocol.json` under `keyDeposit`:
+The deposit amount can be found in the `protocol.json` under `stakeAddressDeposit`:
 
 ```text
     ...
-    "keyDeposit": 2000000,
+    "stakeAddressDeposit": 2000000,
     ...
 ```
 

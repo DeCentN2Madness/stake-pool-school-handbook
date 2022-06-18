@@ -154,6 +154,14 @@ make
 sudo make install
 
 ```
+  
+Add the following to your .bashrc file and source it.
+
+```text
+export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH"
+```
+  
 
 ## Download the source code for cardano-node
 
